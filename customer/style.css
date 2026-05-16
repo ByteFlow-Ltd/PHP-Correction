@@ -1,0 +1,21 @@
+*{
+background-color: rgba(82, 112, 82, 0.877);
+}
+.menu{
+display: flex;
+gap:50px;
+margin-left:20%;
+}
+.menu a{text-decoration: none;
+	color: black;
+	background-color: white;
+	font-size: 30px;
+	font-family: algerian;
+
+}
+h2{margin-left: 30%;
+	font-size: 40px;
+color: aliceblue;
+	font-family: edwardian script ITC;
+
+}
